@@ -1,7 +1,8 @@
 # React-Chat
 
 Project created from reactJs, Chat UI Kit and Rest APIs and axios
-
+Loguin whith site: Username for test : Test, password : 123456
+[chat-react322.netlify.app](http://chat-react322.netlify.app)
 
 # Getting Started with Create React App
 
