@@ -5,7 +5,7 @@ Project created from reactJs, Chat UI Kit and Rest APIs and axios
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Download the repository and start it with the command 'npm install'
 
 ## Available Scripts
 
